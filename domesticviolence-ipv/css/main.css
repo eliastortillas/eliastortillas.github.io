@@ -1,0 +1,63 @@
+body {
+  font-family: 'Arial', sans-serif;
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 1000px
+}
+
+h1 {
+  font-family: 'Alfa Slab One', cursive;
+  font-size: 25px;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  max-width: 650px;
+}
+
+h2 {
+  font-family: 'Crimson Text', serif;
+  font-size: 16px;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  max-width: 650px;
+}
+
+h3 {
+  font-family: 'Crimson Text', serif;
+  font-size: 16px;
+  max-width: 650px;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+}
+
+p {
+  font-family: 'Merriweather', serif;
+  font-size: 15px;
+  max-width: 650px;
+  text-align: justify;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.mychart {
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 600px;
+  border: 50px solid white;
+}
+
+.mychart_skinny {
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 300px;
+  border: 50px solid white;
+}
+
+.mychart_google {
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 800px;
+  border: 20px solid white;
+}
